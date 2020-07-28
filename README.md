@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Rex Tsai, a passionate programmer.👋
 
 <!--
 **rex662624/rex662624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
